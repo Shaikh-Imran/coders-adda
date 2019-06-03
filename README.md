@@ -11,4 +11,4 @@ It will be more focused on Java and Java based frameworks like Spring and Hibern
 And I will be adding more languages such as JavaScript, Scala and others.
 
 ---
-**Note** : Just bring a cup of tea and let the fun begins.
+**Note** : Just bring a cup of tea and let the fun begin.
